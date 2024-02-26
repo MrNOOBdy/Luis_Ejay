@@ -40,6 +40,10 @@ body {
     text-align: center;
 }
 
+.biodata img {
+    border-radius: 10px;
+}
+
 .details {
     font-weight: 500;
     text-align: right;
